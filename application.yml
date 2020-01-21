@@ -6,5 +6,5 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka
 
-foo: nova data lol
+foo: nova data lol 2
 boo: fsdf
